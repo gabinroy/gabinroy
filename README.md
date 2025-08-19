@@ -27,4 +27,4 @@
 
 Created with ❤️
 
-![G Abin Roy](https://github.com/Godwin-Abin/gabinroy/blob/main/G%20Abin%20Roy.jpg)
+![G Abin Roy](https://github.com/gabinroy/gabinroy/blob/main/G%20Abin%20Roy.jpg)

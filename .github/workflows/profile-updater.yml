@@ -1,0 +1,53 @@
+name: Update GitHub Profile Assets (Quote & Snake)
+
+on:
+  schedule:
+    # Run once every 24 hours at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions UI
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Daily Dev Quote SVG
+        run: |
+          python3 scripts/generate_quote.py
+
+      - name: Generate Contribution Grid Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: gabinroy
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push Updated Assets
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/ scripts/used_quotes.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(assets): update daily quote & contribution snake [skip ci]"
+            git push
+          fi

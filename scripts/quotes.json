@@ -1,0 +1,1786 @@
+[
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "quote": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Java is to JavaScript what car is to carpet.",
+    "author": "Chris Heilmann"
+  },
+  {
+    "quote": "Knowledge is power.",
+    "author": "Francis Bacon"
+  },
+  {
+    "quote": "Fix the cause, not the symptom.",
+    "author": "Steve Maguire"
+  },
+  {
+    "quote": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman"
+  },
+  {
+    "quote": "Before software can be reusable it first has to be usable.",
+    "author": "Ralph Johnson"
+  },
+  {
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "The most disastrous phrase in the language is, 'We’ve always done it this way.'",
+    "author": "Grace Hopper"
+  },
+  {
+    "quote": "Computers are fast; developers keep them slow.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "quote": "Truth can only be found in one place: the code.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime.",
+    "author": "David Leinweber"
+  },
+  {
+    "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House"
+  },
+  {
+    "quote": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "It’s not a bug – it’s an undocumented feature.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay"
+  },
+  {
+    "quote": "Software is a great combination between artistry and engineering.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "Don't comment bad code — rewrite it.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "quote": "One man’s constant is another man’s variable.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "Clean code always looks like it was written by someone who cares.",
+    "author": "Michael Feathers"
+  },
+  {
+    "quote": "Debugging is twice as hard as writing the code in the first place.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+    "author": "Louis Srygley"
+  },
+  {
+    "quote": "Software undergoes beta testing shortly before it’s released. Beta is Latin for 'still doesn’t work'.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John Woods"
+  },
+  {
+    "quote": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+    "author": "Phil Karlton"
+  },
+  {
+    "quote": "Controlling complexity is the essence of computer programming.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "quote": "The function of good software is to make the complex appear to be simple.",
+    "author": "Grady Booch"
+  },
+  {
+    "quote": "Testing leads to failure, and failure leads to understanding.",
+    "author": "Burt Rutan"
+  },
+  {
+    "quote": "If you think your users are idiots, only idiots will use it.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "Deleted code is debugged code.",
+    "author": "Jeff Sickel"
+  },
+  {
+    "quote": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "The computer was born to solve problems that did not exist before.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "Good code is its own best documentation.",
+    "author": "Steve McConnell"
+  },
+  {
+    "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+    "author": "Dan Salomon"
+  },
+  {
+    "quote": "It is not enough for code to work.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Low-level programming is good for the programmer's soul.",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant.",
+    "author": "Leo Cherne"
+  },
+  {
+    "quote": "Real programmers can write assembly code in any language.",
+    "author": "Larry Wall"
+  },
+  {
+    "quote": "Software is eating the world.",
+    "author": "Marc Andreessen"
+  },
+  {
+    "quote": "Weeks of coding can save you hours of planning.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "You can't have great software without a great team, and most software teams behave like dysfunctional families.",
+    "author": "Jim McCarthy"
+  },
+  {
+    "quote": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries"
+  },
+  {
+    "quote": "The analytical engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
+    "author": "Ada Lovelace"
+  },
+  {
+    "quote": "UNIX is simple. It just takes a genius to understand its simplicity.",
+    "author": "Dennis Ritchie"
+  },
+  {
+    "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "quote": "An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+    "author": "Patrick McKenzie"
+  },
+  {
+    "quote": "Programming is not about typing, it's about thinking.",
+    "author": "Rich Hickey"
+  },
+  {
+    "quote": "Simplicity is about subtracting the obvious and adding the meaningful.",
+    "author": "John Maeda"
+  },
+  {
+    "quote": "Don't write code that requires a debugger to understand.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "The only real mistake is the one from which we learn nothing.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Quality is not an act, it is a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "quote": "Done is better than perfect.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "quote": "Small deeds done are better than great deeds planned.",
+    "author": "Peter Marshall"
+  },
+  {
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Code is poetry written with logic.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "quote": "Do not fear failure, but rather fear not trying.",
+    "author": "Roy T. Bennett"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh"
+  },
+  {
+    "quote": "Whether you think you can or think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan"
+  },
+  {
+    "quote": "Work hard in silence, let your success be your noise.",
+    "author": "Frank Ocean"
+  },
+  {
+    "quote": "If you cannot do great things, do small things in a great way.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Everything should be made as simple as possible, but not simpler.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X"
+  },
+  {
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "quote": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle"
+  },
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "The computing scientist’s main challenge is not to get confused by the complexities of his own making.",
+    "author": "E. W. Dijkstra"
+  },
+  {
+    "quote": "The cheapest, fastest, and most reliable components are those that aren’t there.",
+    "author": "Gordon Bell"
+  },
+  {
+    "quote": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.",
+    "author": "Brian W. Kernighan"
+  },
+  {
+    "quote": "UNIX was not designed to stop its users from doing stupid things, as that would also stop them from doing clever things.",
+    "author": "Doug Gwyn"
+  },
+  {
+    "quote": "If you’re willing to restrict the flexibility of your approach, you can almost always do something better.",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "A data structure is just a stupid programming language.",
+    "author": "R. Wm. Gosper"
+  },
+  {
+    "quote": "The essence of XML is this: the problem it solves is not hard, and it does not solve the problem well.",
+    "author": "Phil Wadler"
+  },
+  {
+    "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+    "author": "John Osterhout"
+  },
+  {
+    "quote": "Life is too short to run proprietary software.",
+    "author": "Bdale Garbee"
+  },
+  {
+    "quote": "I had a nightmare once in which I a had convinced a friend how wonderful C++ is. A while later he came back., and he was mad.[sic]",
+    "author": "Robin Rosenberg [http://groups.google.com/groups?selm=1fYEA-pz-21%40gated-at.bofh.it]"
+  },
+  {
+    "quote": "XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it.",
+    "author": "Heard from someone working at Microsoft"
+  },
+  {
+    "quote": "XML is like violence. Sure, it seems like a quick and easy solution at first, but then it spirals out of control into utter chaos.",
+    "author": "Sarkos in reddit"
+  },
+  {
+    "quote": "Threads [and] signals [are] a platform-dependant trail of misery, despair, horror and madness.",
+    "author": "Anthony Baxter [http://mail.python.org/pipermail/python-dev/2005-July/]"
+  },
+  {
+    "quote": "Computers are about making life easier in much the same way that the Republican party is about fiscal responsibility and a culture of life.",
+    "author": "mister_borogove [http://www.livejournal.com/users/jwz/536902.html?thread=9506374#t9506374]"
+  },
+  {
+    "quote": "Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.",
+    "author": "Richard Hamming"
+  },
+  {
+    "quote": "It’s not that Perl programmers are idiots, it’s that the language rewards idiotic behavior in a way that no other language or tool has ever done.",
+    "author": "Erik Naggum"
+  },
+  {
+    "quote": "It’s a curious thing about our industry: not only do we not learn from our mistakes, we also don’t learn from our successes.",
+    "author": "Keith Braithwaite"
+  },
+  {
+    "quote": "Ethernet always wins.",
+    "author": "Andy Bechtolsheim"
+  },
+  {
+    "quote": "Beware of “the real world”. A speaker’s apeal to it is always an invitation not to challenge his tacit assumptions.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "Unix is a junk OS designed by a committee of PhDs.",
+    "author": "Dave Cutler"
+  },
+  {
+    "quote": "i’ve wondered whether Linux sysfs should be called syphilis",
+    "author": "forsyth"
+  },
+  {
+    "quote": "Programming graphics in X is like finding the square root of PI using Roman numerals.",
+    "author": "Henry Spencer"
+  },
+  {
+    "quote": "Forward thinking was just the thing that made Multics what it is today.",
+    "author": "Erik Quanstrom"
+  },
+  {
+    "quote": "RMS is to Unix, like Hitler [was] to Nietzsche.",
+    "author": "Federico Benavento"
+  },
+  {
+    "quote": "Unix is simple. It just takes a genius to understand its simplicity.",
+    "author": "Dennis Ritchie"
+  },
+  {
+    "quote": "Most xml i’ve seen makes me think i’m dyslexic. it also looks constipated, and two health problems in one standard is just too much.",
+    "author": "Charles Forsyth"
+  },
+  {
+    "quote": "OAuth is the best that the wrong way of doing things can provide.",
+    "author": "Mike Stay [http://blog.360.yahoo.com/blog-TBPekxc1dLNy5DOloPfzVvFIVOWMB0li?p=1006]"
+  },
+  {
+    "quote": "The only places for icons is in a church, a burning church at that.",
+    "author": "mhat"
+  },
+  {
+    "quote": "The key to performance is elegance, not battalions of special cases.",
+    "author": "Jon Bentley and Doug McIlroy"
+  },
+  {
+    "quote": "Correctness is clearly the prime quality. If a system does not do what it is supposed to do, then everything else about it matters little.",
+    "author": "Bertrand Meyer"
+  },
+  {
+    "quote": "A language that doesn’t have everything is actually easier to program in than some that do.",
+    "author": "Dennis M. Ritchie"
+  },
+  {
+    "quote": "You can’t trust code that you did not totally create yourself.",
+    "author": "Ken Thompson"
+  },
+  {
+    "quote": "Not only is UNIX dead, it’s starting to smell really bad.",
+    "author": "Rob Pike circa 1991"
+  },
+  {
+    "quote": "{ajh} I always viewed HURD development like the Special Olympics of free software. > _",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "We have persistant(sic) objects, they’re called files.",
+    "author": "Ken Thompson"
+  },
+  {
+    "quote": "If you want to go somewhere, goto is the best way to get there.",
+    "author": "ken"
+  },
+  {
+    "quote": "The X server has to be the biggest program I’ve ever seen that doesn’t do anything for you.",
+    "author": "Ken Thompson"
+  },
+  {
+    "quote": "A smart terminal is not a smartass terminal, but rather a terminal you can educate.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "Compatibility means deliberately repeating other people’s mistakes.",
+    "author": "David Wheeler"
+  },
+  {
+    "quote": "And both, programmers and prostitutes, are right: they suck. The big difference is that prostitutes got the term “user-friendly” right.",
+    "author": "yiyus [<code>http://www.reddit.com/r/programming/comments/8y348/my_programming_quotes_file_was_well_received_when/c0aspwo</code>]"
+  },
+  {
+    "quote": "The Purpose of Computing is Insight, Not Numbers.",
+    "author": "This is the motto of the book <a><em>Numerical Methods for Scientists and Engineers</em></a> by Richard Hamming."
+  },
+  {
+    "quote": "Every methodology I’ve come across has, at its kernel, a very small section labelled “do magic here”.",
+    "author": "Katie [http://www.fysh.org/~katie/computing/methodologies.txt]"
+  },
+  {
+    "quote": "I recommend the linux people to call it “GNU / Linux” instead of “GNU/Linux”. never hurts to distance yourself from GNU.",
+    "author": "mjl on #plan9-social"
+  },
+  {
+    "quote": "Trying to express implicit and fuzzy relationships in ways that are explicit and sharp doesn’t clarify the meaning, it destroys it.",
+    "author": "Clay Shirky [<code>http://www.shirky.com/writings/semantic_syllogism.html</code>]"
+  },
+  {
+    "quote": "Unix has retarded OS research by 10 years and linux has retarded it by 20.",
+    "author": "Dennis Ritchie as quoted by by Boyd Roberts in 9fans."
+  },
+  {
+    "quote": "Nobody who uses XML knows what they are doing.",
+    "author": "Chris Wenham"
+  },
+  {
+    "quote": "Debugging time increases as a square of the program’s size.",
+    "author": "Chris Wenham"
+  },
+  {
+    "quote": "in aeronautical circles, it’s said that the f4 is proof that given enough thrust even a brick will fly. > _",
+    "author": "erik quanstrom"
+  },
+  {
+    "quote": "Comparing a computer language to a human language is like comparing an operating system kernel to a popcorn kernel.",
+    "author": "kryptkpr [<code>http://www.reddit.com/r/programming/comments/9upno/c_is_frequently_reviled_both_by_those_who_never/c0eiyqu</code>]"
+  },
+  {
+    "quote": "My definition of an expert in any field is a person who knows enough about what’s really going on to be scared.",
+    "author": "P. J. Plauger"
+  },
+  {
+    "quote": "The best code is no code at all.",
+    "author": "Jeff Atwood"
+  },
+  {
+    "quote": "Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "What I cannot build, I do not understand.",
+    "author": "Richard Feynman"
+  },
+  {
+    "quote": "If we’d asked the customers what they wanted, they would have said “faster horses”",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Once you’ve dressed and before you leave the house, look in the mirror and take at least one thing off.",
+    "author": "Coco Chanel"
+  },
+  {
+    "quote": "I have always found that plans are useless, but planning is indispensable.",
+    "author": "Dwight D. Eisenhower"
+  },
+  {
+    "quote": "Software is like entropy. It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e. it always increases. > _",
+    "author": "u."
+  },
+  {
+    "quote": "The best things are simple, but finding these simple things is not simple.",
+    "author": "bill [http://stackoverflow.com/questions/58640/great-programming-quotes/1003525#1003525]"
+  },
+  {
+    "quote": "Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.",
+    "author": "Laurence J. Peter"
+  },
+  {
+    "quote": "Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.",
+    "author": "Stewart Brand"
+  },
+  {
+    "quote": "With diligence it is possible to make anything run slowly.",
+    "author": "Tom Duff"
+  },
+  {
+    "quote": "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "For a sucessful technology, honesty must take precedence over public relations for nature cannot be fooled.",
+    "author": "Richard Feynman"
+  },
+  {
+    "quote": "Comparing to another activity is useful if it helps you formulate questions, it’s dangerous when you use it to justify answers.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "Simplicity carried to the extreme becomes elegance.",
+    "author": "Jon Franklin"
+  },
+  {
+    "quote": "Software obeys the law of gaseous expansion - it continues to grow until memory is completely filled.",
+    "author": "Larry Gleason"
+  },
+  {
+    "quote": "The unavoidable price of reliability is simplicity.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "quote": "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
+    "author": "Hans Hoffmann"
+  },
+  {
+    "quote": "Trying to outsmart a compiler defeats much of the purpose of using one.",
+    "author": "Kernighan and Plauger"
+  },
+  {
+    "quote": "You’re bound to be unhappy if you optimize everything.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.",
+    "author": "Leslie Lamport"
+  },
+  {
+    "quote": "If you want a product with certain characteristics, you must ensure that the team has those characteristics before the product’s development.",
+    "author": "Jim McCarthy and Michele McCarthy - Software for your Head"
+  },
+  {
+    "quote": "You can’t have great software without a great team, and most software teams behave like dysfunctional families.",
+    "author": "Jim McCarthy"
+  },
+  {
+    "quote": "Unformed people delight in the gaudy and in novelty. Cooked people delight in the ordinary.",
+    "author": "Erik Naggum"
+  },
+  {
+    "quote": "There’s no sense being exact about something if you don’t even know what you’re talking about.",
+    "author": "John von Neumann"
+  },
+  {
+    "quote": "That’s the thing about people who think they hate computers. What they really hate is lousy programmers.",
+    "author": "Larry Niven and Jerry Pournelle Oath of Fealty"
+  },
+  {
+    "quote": "Search all the parks in all your cities; you’ll find no statues of committees.",
+    "author": "David Ogilvy"
+  },
+  {
+    "quote": "Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.",
+    "author": "Sean Parent"
+  },
+  {
+    "quote": "Fashion is something barbarous, for it produces innovation without reason and imitation without benefit.",
+    "author": "George Santayana"
+  },
+  {
+    "quote": "Forgive him, for he believes that the customs of his tribe are the laws of nature!",
+    "author": "G.B. Shaw"
+  },
+  {
+    "quote": "The only sin is to make a choice without knowing you are making one.",
+    "author": "Jonathan Shewchuk"
+  },
+  {
+    "quote": "It is a painful thing to look at your own trouble and know that you yourself and no one else has made it.",
+    "author": "Sophocles"
+  },
+  {
+    "quote": "A notation is important for what it leaves out.",
+    "author": "Joseph Stoy"
+  },
+  {
+    "quote": "An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "I have always wished that my computer would be as easy to use as my telephone. My wish has come true. I no longer know how to use my telephone.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "The most important single aspect of software development is to be clear about what you are trying to build.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "The best is the enemy of the good.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Software gets slower faster than hardware gets faster.",
+    "author": "Wirth’s law"
+  },
+  {
+    "quote": "The purpose of software engineering is to control complexity, not to create it.",
+    "author": "Dr. Pamela Zave"
+  },
+  {
+    "quote": "I object to doing things that computers can do.",
+    "author": "Olin Shivers"
+  },
+  {
+    "quote": "Simplicity – the art of maximizing the amount of work not done – is essential.",
+    "author": "From the Agile Manifesto."
+  },
+  {
+    "quote": "Perilous to us all are the devices of an art deeper than that which we possess ourselves.",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "quote": "Complexity has nothing to do with intelligence, simplicity does.",
+    "author": "Larry Bossidy"
+  },
+  {
+    "quote": "If it doesn’t work, it doesn’t matter how fast it doesn’t work.",
+    "author": "Mich Ravera"
+  },
+  {
+    "quote": "Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.",
+    "author": "Chris Sacca"
+  },
+  {
+    "quote": "They won’t tell you that they don’t understand it; they will happily invent their way through the gaps and obscurities.",
+    "author": "V.A. Vyssotsky on software programmers and their views on specifications"
+  },
+  {
+    "quote": "In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.",
+    "author": "Jon Bentley"
+  },
+  {
+    "quote": "Computers make it easier to do a lot of things, but most of the things they make it easier to do don’t need to be done.",
+    "author": "Andy Rooney"
+  },
+  {
+    "quote": "True glory consists in doing what deserves to be written; in writing what deserves to be read.",
+    "author": "Pliny the Elder"
+  },
+  {
+    "quote": "The whole point of getting things done is knowing what to leave undone.",
+    "author": "Oswald Chambers"
+  },
+  {
+    "quote": "One Page Principle: A specification that will not fit on one page of 8.5x11 inch paper cannot be understood.",
+    "author": "Mark Ardis"
+  },
+  {
+    "quote": "As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.",
+    "author": "Dave Parnas"
+  },
+  {
+    "quote": "OOP is to writing a program, what going through airport security is to flying.",
+    "author": "Richard Mansfield"
+  },
+  {
+    "quote": "As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.",
+    "author": "Doug McIlroy"
+  },
+  {
+    "quote": "IDE features are language smells.",
+    "author": "Reg Braithwaite"
+  },
+  {
+    "quote": "PHP is [the] Sarah Palin of programming languages.",
+    "author": "killerstorm [<code>http://www.reddit.com/r/programming/comments/b7j9v/debian_refuses_to_package_the_embedded_php/c0ldcqg</code>]"
+  },
+  {
+    "quote": "A good way to have good ideas is by being unoriginal.",
+    "author": "Bram Cohen"
+  },
+  {
+    "quote": "Never attribute to funny hardware that which can be adequately explained by broken locking.",
+    "author": "Erik Quanstrom"
+  },
+  {
+    "quote": "Things which any idiot could write usually have the quality of having been written by an idiot.",
+    "author": "Bram Cohen"
+  },
+  {
+    "quote": "In programming the hard part isn’t solving problems, but deciding what problems to solve.",
+    "author": "Paul Graham"
+  },
+  {
+    "quote": "[POSIX] unifying unix? more like formalizing historical design mistakes made by major vendors…",
+    "author": "ttyv0"
+  },
+  {
+    "quote": "Do I really want to be using a language where memoize is a PhD-level topic?",
+    "author": "Mark Engelberg about Haskell"
+  },
+  {
+    "quote": "People stop thinking and questioning [and] then its just worshipping some rules without any pruporse.",
+    "author": "Cinap Lenrek"
+  },
+  {
+    "quote": "If you start programming by learning perl you will just become a menace to your self and others.",
+    "author": "egoncasteel"
+  },
+  {
+    "quote": "When there is no type hierarchy you don’t have to manage the type hierarchy.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "Software efficiency halves every 18 months, compensating Moore’s Law.",
+    "author": "May’s Law"
+  },
+  {
+    "quote": "So-called “smart” software usually is the worst you can imagine.",
+    "author": "Christian Neukirchen"
+  },
+  {
+    "quote": "It is not that uncommon for the cost of an abstraction to outweigh the benefit it delivers. Kill one today!",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "So much complexity in software comes from trying to make one thing do two things.",
+    "author": "Ryan Singer"
+  },
+  {
+    "quote": "The standard rule is, when you’re in a hole, stop digging; that seems not to apply [to] software nowadays.",
+    "author": "Ron Minnich"
+  },
+  {
+    "quote": "There’s nothing in computing that can’t be broken by another level of indirection.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "One of the big lessons of a big project is you don’t want people that aren’t really programmers programming, you’ll suffer for it!",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "Premature optimization, that’s like a sneeze. Premature abstraction is like ebola; it makes my eyes bleed.",
+    "author": "Christer Ericson"
+  },
+  {
+    "quote": "Premature optimizations can be troublesome to revert, but premature generalizations are often near impossible.",
+    "author": "Emil Persson"
+  },
+  {
+    "quote": "Premature optimization, that’s like a fart. Premature abstraction is like taking a dump on another developer’s desk.",
+    "author": "Chris Eric"
+  },
+  {
+    "quote": "Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.",
+    "author": "Scott Adams"
+  },
+  {
+    "quote": "Formal education will make you a living. Self-education will make you a fortune.",
+    "author": "Jim Rohn"
+  },
+  {
+    "quote": "Programming is not easy like Sunday morning, it is silent poetry.",
+    "author": "Waseem Latif"
+  },
+  {
+    "quote": "The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.",
+    "author": "Cunningham's Law"
+  },
+  {
+    "quote": "A good API is not just easy to use but also hard to misuse.",
+    "author": "JBD"
+  },
+  {
+    "quote": "In carpentry you measure twice and cut once. In software development you never measure and make cuts until you run out of time.",
+    "author": "Adam Morse"
+  },
+  {
+    "quote": "These days, the problem isn't how to innovate; it's how to get society to adopt the good ideas that already exist.",
+    "author": "Douglas Engelbart"
+  },
+  {
+    "quote": "What one programmer can do in one month, two programmers can do in two months.",
+    "author": "Frederick P. Brooks"
+  },
+  {
+    "quote": "Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.",
+    "author": "Damian Conway"
+  },
+  {
+    "quote": "Promoting a good developer to management is often a twofold bad move: you'll lose a good developer and get a poor manager.",
+    "author": "Mario Fusco"
+  },
+  {
+    "quote": "90% of the functionality delivered now is better than 100% delivered never.",
+    "author": "Brian W. Kernighan & P. J. Plaugher"
+  },
+  {
+    "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Almost every attempt at making something better will be regarded by someone else as a personal attack.",
+    "author": "Chris Sacca"
+  },
+  {
+    "quote": "An evolving system increases its complexity unless work is done to reduce it.",
+    "author": "Meir Lehman"
+  },
+  {
+    "quote": "I know testers who make good devs. I know devs who make good testers. I know Scrum Masters who make good coffee.",
+    "author": "David Evans"
+  },
+  {
+    "quote": "We crave for new sensations but soon become indifferent to them. Wonders of yesterday are today common occurrences.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "quote": "Hardware eventually fails. Software eventually works.",
+    "author": "Michael Hartung"
+  },
+  {
+    "quote": "That which optimizes one part of the system necessarily undermines the system as a whole.",
+    "author": "Eric Ries"
+  },
+  {
+    "quote": "Teams are immutable. Every time someone leaves, or joins, you have a new team, not a changed team.",
+    "author": "Richard Dalton"
+  },
+  {
+    "quote": "There's nothing more permanent than a temporary hack.",
+    "author": "Kyle Simpson"
+  },
+  {
+    "quote": "It can be better to copy a little code than to pull in a big library for one function. Dependency hygiene trumps code reuse.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.",
+    "author": "Pete Cordell"
+  },
+  {
+    "quote": "Almost without exception, the best products are developed by teams with desire to solve a problem; not a company's need to fulfil a strategy.",
+    "author": "Jeff Weiner"
+  },
+  {
+    "quote": "A Fallacy of Software: If it works, and we don't change anything, it will keep working.",
+    "author": "Jessica Kerr"
+  },
+  {
+    "quote": "Programmers are often angry because they're often scared.",
+    "author": "Paul Ford"
+  },
+  {
+    "quote": "Well-designed components are easy to replace. Eventually, they will be replaced by ones that are not so easy to replace.",
+    "author": "Sustrik's Law"
+  },
+  {
+    "quote": "Things that are impossible just take longer.",
+    "author": "Ian Hickson"
+  },
+  {
+    "quote": "Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.",
+    "author": "Conway's law"
+  },
+  {
+    "quote": "Good engineers make solutions obsolete. Great engineers make themselves obsolete.",
+    "author": "Jordan W"
+  },
+  {
+    "quote": "Treat your code like poetry and take it to the edge of the bare minimum.",
+    "author": "Ilyo"
+  },
+  {
+    "quote": "No code is faster than no code.",
+    "author": "merb motto"
+  },
+  {
+    "quote": "When in doubt, leave it out.",
+    "author": "Joshua Bloch"
+  },
+  {
+    "quote": "Languages that try to disallow idiocy become themselves idiotic.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "Security is a state of mind.",
+    "author": "NSA Security Manual"
+  },
+  {
+    "quote": "A program is like a poem: you cannot write a poem without writing it.",
+    "author": "E. W. Dijkstra"
+  },
+  {
+    "quote": "I hate code, and I want as little of it as possible in our product.",
+    "author": "Jack Diederich"
+  },
+  {
+    "quote": "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Writing software as if we are the only person that ever has to comprehend it is one of the biggest mistakes and false assumptions that can be made.",
+    "author": "Karolina Szczur"
+  },
+  {
+    "quote": "Scrum is like the rules of soccer. Following them does not make you a good player.",
+    "author": "Jeff Sutherland"
+  },
+  {
+    "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+    "author": "E. W. Dijkstra"
+  },
+  {
+    "quote": "What matters for simplicity is that there's not interleaving.",
+    "author": "Rich Hickey"
+  },
+  {
+    "quote": "Blame the implementation, not the technique.",
+    "author": "Tim Kadlec"
+  },
+  {
+    "quote": "Programmers are as emotional and irrational as normal people.",
+    "author": "Douglas Crockford"
+  },
+  {
+    "quote": "If you're actually doing TDD, you're throwing away tests all the time, as your understanding of what the code is changes.",
+    "author": "Kerri Miller"
+  },
+  {
+    "quote": "Programs, like people, get old. We can't prevent ageing, but we can understand its causes, limit its effects and reverse some of the damage.",
+    "author": "Mario Fusco"
+  },
+  {
+    "quote": "A person without data is just another person with an opinion.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Get out of the way of your developers or lose them to someone who will.",
+    "author": "Adrian Cockcroft"
+  },
+  {
+    "quote": "Most of the biggest problems in software are problems of misconception.",
+    "author": "Rich Hickey"
+  },
+  {
+    "quote": "Easy is not to be underestimated. Easy taps the pool of talent and ideas out there that were turned off by hard.",
+    "author": "Chris Anderson"
+  },
+  {
+    "quote": "It's a lot easier to talk about code than it is to write code.",
+    "author": "John O'Nolan"
+  },
+  {
+    "quote": "Not all eyes that notice bugs in Open Source code belong to saints who will report or repair them in the interest of the public good.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it.",
+    "author": "Alberto Brandolini"
+  },
+  {
+    "quote": "Users who want critical bug fixes and new features without actually upgrading their software also want magic flying candy-dropping ponies.",
+    "author": "chromatic"
+  },
+  {
+    "quote": "First do it, then do it right, then do it better.",
+    "author": "Addy Osmani"
+  },
+  {
+    "quote": "When in doubt, use brute force.",
+    "author": "Ken Thompson"
+  },
+  {
+    "quote": "Rails has done more for startups than a whole boatload of Venture Capitalists.",
+    "author": "Eric Ries"
+  },
+  {
+    "quote": "Tests are the Programmer's stone, transmuting fear into boredom.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Simple doesn't mean stupid. Thinking that it does, does.",
+    "author": "Paul Krugman"
+  },
+  {
+    "quote": "You do not really understand something unless you can explain it to your grandmother.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Just because something is easy to measure doesn't mean it's important.",
+    "author": "David Heinemeier Hansson"
+  },
+  {
+    "quote": "In many ways, the prism of computer science is harmful for the development of information systems.",
+    "author": "David Heinemeier Hansson"
+  },
+  {
+    "quote": "[Most managers] may defend the schedule and requirements with passion; but that's their job. It's your job to defend the code with equal passion.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Perl: The only language that looks the same before and after RSA encryption.",
+    "author": "Keith Bostic"
+  },
+  {
+    "quote": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.",
+    "author": "Gerald Weinberg"
+  },
+  {
+    "quote": "One of my most productive days was throwing away 1000 lines of code.",
+    "author": "Ken Thompson"
+  },
+  {
+    "quote": "When debugging, novices insert corrective code; experts remove defective code.",
+    "author": "Richard Pattis"
+  },
+  {
+    "quote": "Nine people can't make a baby in a month.",
+    "author": "Frederick P. Brooks"
+  },
+  {
+    "quote": "Object-oriented design is the roman numerals of computing.",
+    "author": "Rob Pike"
+  },
+  {
+    "quote": "The first step of any project is to grossly underestimate its complexity and difficulty.",
+    "author": "Nicoll Hunt"
+  },
+  {
+    "quote": "Sure I could program in PHP, but I could also use a sundial to tell time.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Write code every day.",
+    "author": "John Resig"
+  },
+  {
+    "quote": "Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "The most secure code in the world is code which is never written.",
+    "author": "Colin Percival"
+  },
+  {
+    "quote": "If we have data, let's look at data. If all we have are opinions, let's go with mine.",
+    "author": "Jim Barksdale"
+  },
+  {
+    "quote": "The proper use of comments is to compensate for our failure to express ourself in code.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Linux is only free if your time has no value.",
+    "author": "Jamie Zawinski"
+  },
+  {
+    "quote": "One of the best programming skills you can have is knowing when to walk away for awhile.",
+    "author": "Oscar Godson"
+  },
+  {
+    "quote": "Programming uses head and gut.",
+    "author": "Douglas Crockford"
+  },
+  {
+    "quote": "At some point software design becomes less about what and more about when.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Hope is not a plan.",
+    "author": "Jonathan Rosenberg"
+  },
+  {
+    "quote": "All programming languages are shit. But the good ones fertilize your mind.",
+    "author": "Reg Braithwaite"
+  },
+  {
+    "quote": "Hiring bad developers is like drinking seawater. It seems to satisfy a need while actually increasing it.",
+    "author": "Michael Nygard"
+  },
+  {
+    "quote": "Good programmers don't just write programs. They build a working vocabulary.",
+    "author": "Guy Steele"
+  },
+  {
+    "quote": "You won't get anything done by planning.",
+    "author": "Karl Pilkington"
+  },
+  {
+    "quote": "It would be nice if products and programming languages were designed to have only good parts.",
+    "author": "Douglas Crockford"
+  },
+  {
+    "quote": "The older I get, the more I believe that the only way to become a better programmer is by not programming.",
+    "author": "Jeff Atwood"
+  },
+  {
+    "quote": "Later equals never.",
+    "author": "Le Blanc's law"
+  },
+  {
+    "quote": "In the end, regardless of where you are on the development hierarchy, keep coding. It's where you're most valuable.",
+    "author": "The Developer's Code"
+  },
+  {
+    "quote": "We build systems like the Wright brothers built airplanes - build the whole thing, push it off the cliff, let it crash, and start over again.",
+    "author": "Nato Software Engineering Conference '68"
+  },
+  {
+    "quote": "Optimism is an occupational hazard of programming; feedback is the treatment.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Any fool can use a computer. Many do.",
+    "author": "Ted Nelson"
+  },
+  {
+    "quote": "Hardware: the parts of a computer system that can be kicked.",
+    "author": "Jeff Pesis"
+  },
+  {
+    "quote": "That's what's cool about working with computers. They don't argue, they remember everything, and they don't drink all your beer.",
+    "author": "Paul Leary"
+  },
+  {
+    "quote": "Computers are like bikinis. They save people a lot of guesswork.",
+    "author": "Sam Ewing"
+  },
+  {
+    "quote": "Features, quality, time: pick two.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "XML is like violence - if it doesn't solve your problems, you are not using enough of it.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "I love deadlines. I like the whooshing sound they make as they fly by.",
+    "author": "Douglas Adams"
+  },
+  {
+    "quote": "A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.",
+    "author": "Mitch Ratcliffe"
+  },
+  {
+    "quote": "XML documents are much like humans - they are cute and fun to deal with when they're small but can get really annoying as they grow bigger.",
+    "author": "Andy Hunt"
+  },
+  {
+    "quote": "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.",
+    "author": "Mario Fusco"
+  },
+  {
+    "quote": "The cardinal rule of writing unmaintainable code is to specify each fact in as many places as possible and in as many ways as possible.",
+    "author": "Roedy Green"
+  },
+  {
+    "quote": "The longer it takes for a bug to surface, the harder it is to find.",
+    "author": "Roedy Green"
+  },
+  {
+    "quote": "Incorrect documentation is often worse than no documentation.",
+    "author": "Bertrand Meyer"
+  },
+  {
+    "quote": "The sooner you start to code, the longer the program will take.",
+    "author": "Roy Carlson"
+  },
+  {
+    "quote": "Don't have good ideas if you aren't willing to be responsible for them.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "Law 1: Every program can be optimised to be smaller. Law 2: There's always one more bug. Corollary: Every program can be reduced to a one-line bug.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Good programming is 99% sweat and 1% coffee.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Estimate always goes wrong. That too in one way.",
+    "author": "Sumit Agrawal"
+  },
+  {
+    "quote": "Ready, fire, aim: the fast approach to software development. Ready, aim, aim, aim, aim: the slow approach to software development.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "In order to understand recursion, one must first understand recursion.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "And the users exclaimed with a laugh and a taunt: It's just what we asked for but not what we want.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Better train people and risk they leave - than do nothing and risk they stay.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Why do we never have time to do it right, but always have time to do it over?",
+    "author": "anonymous"
+  },
+  {
+    "quote": "One of the big lessons of a big project is you don't want people that aren't really programmers programming, you'll suffer for it!",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "The standard rule is, when you're in a hole, stop digging; that seems not to apply [to] software nowadays.",
+    "author": "Ron Minnich"
+  },
+  {
+    "quote": "The trick is to fix the problem you have, rather than the problem you want.",
+    "author": "Bram Cohen"
+  },
+  {
+    "quote": "The key to making programs fast is to make them do practically nothing.",
+    "author": "Mike Haertel"
+  },
+  {
+    "quote": "Machines should work. People should think.",
+    "author": "IBM Pollyanna Principle"
+  },
+  {
+    "quote": "Good software, like wine, takes time.",
+    "author": "Joel Spolsky"
+  },
+  {
+    "quote": "Any non-trivial program contains at least one bug.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "After you finish the first 90% of a project, you have to finish the other 90%.",
+    "author": "Michael Abrash"
+  },
+  {
+    "quote": "The best way to predict the future is to implement it.",
+    "author": "Alan Kay"
+  },
+  {
+    "quote": "A lack of planning on your part does not constitute an emergency on my part.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Software and cathedrals are much the same - first we build them, then we pray.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "There are two ways to write error-free programs; only the third works.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "Before software can be reusable, it first has to be usable.",
+    "author": "Ralph Johnson"
+  },
+  {
+    "quote": "Sometimes the problem is to discover what the problem is.",
+    "author": "Gordon Glegg"
+  },
+  {
+    "quote": "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "Every program has two purposes: The one for which it was written and another for which it wasn't.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "The value of a prototype is in the education it gives you, not in the code itself.",
+    "author": "Alan Cooper"
+  },
+  {
+    "quote": "You broke the build!",
+    "author": "Agnes"
+  },
+  {
+    "quote": "A language that doesn't have everything is actually easier to program in than some that do.",
+    "author": "Dennis M. Ritchie"
+  },
+  {
+    "quote": "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflous.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "A programming language is low level when its programs require attention to the irrelevant.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.",
+    "author": "Grace Hopper"
+  },
+  {
+    "quote": "Adding manpower to a late software project makes it later.",
+    "author": "Frederick P. Brooks"
+  },
+  {
+    "quote": "The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.",
+    "author": "Joshua Bloch"
+  },
+  {
+    "quote": "It's not a bug - it's an undocumented feature.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Playfully doing something difficult, whether useful or not, that is hacking.",
+    "author": "Richard M. Stallman"
+  },
+  {
+    "quote": "Learn the principle, abide by the principle, and dissolve the principle.",
+    "author": "Bruce Lee"
+  },
+  {
+    "quote": "Reusing pieces of code is liked picking off sentences from other people's stories and trying to make a magazine article.",
+    "author": "Bob Frankston"
+  },
+  {
+    "quote": "Make everything as simple as possible, but not simpler.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "It's better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.",
+    "author": "Steve McConnell"
+  },
+  {
+    "quote": "Managing senior programmers is like herding cats.",
+    "author": "Dave Platt"
+  },
+  {
+    "quote": "In programming, the hard part isn't solving problems, but deciding what problems to solve.",
+    "author": "Paul Graham"
+  },
+  {
+    "quote": "Good programming is good writing.",
+    "author": "John Shore"
+  },
+  {
+    "quote": "Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.",
+    "author": "Harlan Mills"
+  },
+  {
+    "quote": "It's okay to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it.",
+    "author": "Steve McConnell"
+  },
+  {
+    "quote": "One man's crappy software is another man's full time job.",
+    "author": "Jessica Gaston"
+  },
+  {
+    "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+    "author": "Doug Linder"
+  },
+  {
+    "quote": "All programmers are playwrights and all computers are lousy actors.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Programmer - an organism that turns coffee into software.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Theory and practice sometimes clash. And when that happens, theory loses. Every single time.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Your task is not to foresee the future, but to enable it.",
+    "author": "Antoine de Saint Exupéry"
+  },
+  {
+    "quote": "Anything that can possibly go wrong, will go wrong.",
+    "author": "Murphy's Law"
+  },
+  {
+    "quote": "There is not now, nor has there ever been, nor will there ever be, any programming language in which it is the least bit difficult to write bad code.",
+    "author": "Flon's Law"
+  },
+  {
+    "quote": "Software sucks because users demand it to.",
+    "author": "Nathan Myhrvold"
+  },
+  {
+    "quote": "We are just as proud of what our products don't do as we are as what they do.",
+    "author": "37Signals"
+  },
+  {
+    "quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.",
+    "author": "George Carrette"
+  },
+  {
+    "quote": "Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.",
+    "author": "Ted Nelson"
+  },
+  {
+    "quote": "In the one and only true way. The object-oriented version of 'Spaghetti code' is, of course, 'Lasagna code'. (Too many layers).",
+    "author": "Roberto Waltman"
+  },
+  {
+    "quote": "A sentence should be enough to get the idea across.",
+    "author": "37Signals"
+  },
+  {
+    "quote": "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.",
+    "author": "Eric Raymond"
+  },
+  {
+    "quote": "Eagleson's Law: Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+    "author": "Alan Eagleson"
+  },
+  {
+    "quote": "Programming is like sex: one mistake and you're providing support for a lifetime.",
+    "author": "Michael Sinz"
+  },
+  {
+    "quote": "Encoded names are seldom pronounceable and are easy to miss-type.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Programmers must avoid leaving false clues that obscure the meaning of code.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Write shy code - modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations.",
+    "author": "Andy Hunt & Dave Thomas"
+  },
+  {
+    "quote": "Each new user of a new system uncovers a new class of bugs.",
+    "author": "Brian W. Kernighan"
+  },
+  {
+    "quote": "I don't care if it works on your machine! We are not shipping your machine!",
+    "author": "Vidiu Platon"
+  },
+  {
+    "quote": "Profanity is the one language all programmers know best.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Testing can show the presence of errors, but not their absence.",
+    "author": "E. W. Dijkstra"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil in programming.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Compatibility means deliberately repeating other people's mistakes.",
+    "author": "David Wheeler"
+  },
+  {
+    "quote": "Just because the standard provides a cliff in front of you, you are not necessarily required to jump off it.",
+    "author": "Norman Diamond"
+  },
+  {
+    "quote": "The central enemy of reliability is complexity.",
+    "author": "Daniel Geer"
+  },
+  {
+    "quote": "If you're willing to restrict the flexibility of your approach, you can almost always do something better.",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "True innovation often comes from the small startup who is lean enough to launch a market but lacks the heft to own it.",
+    "author": "Timm Martin"
+  },
+  {
+    "quote": "You don't have a scaling problem yet.",
+    "author": "37Signals"
+  },
+  {
+    "quote": "It's not at all important to get it right the first time. It's vitally important to get it right the last time.",
+    "author": "Andy Hunt & Dave Thomas"
+  },
+  {
+    "quote": "Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet.",
+    "author": "Michael A. Jackson"
+  },
+  {
+    "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it's too late.",
+    "author": "Seymour Cray"
+  },
+  {
+    "quote": "Never trust a programmer in a suit.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "The difference between theory and practice is smaller in theory than in practice.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint Exupéry"
+  },
+  {
+    "quote": "Computer Science is no more about computers than astronomy is about telescopes.",
+    "author": "E. W. Dijkstra"
+  },
+  {
+    "quote": "Don't comment bad code - rewrite it.",
+    "author": "Brian W. Kernighan & P. J. Plaugher"
+  },
+  {
+    "quote": "Be careful to preserve the orthogonality of your system as you introduce third-party toolkits and libraries. Choose your technologies wisely.",
+    "author": "Andy Hunt & Dave Thomas"
+  },
+  {
+    "quote": "DRY - Don't Repeat Yourself - Every piece of knowledge must have a single, unambiguous, athoritative representation within a system.",
+    "author": "Andy Hunt & Dave Thomas"
+  },
+  {
+    "quote": "The first rule of functions is that they should be small. The second rule of functions is that <em>they should be smaller than that</em>.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Functions should do one thing. They should do it well. They should do it only.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Don't live with broken windows.",
+    "author": "Andy Hunt & Dave Thomas"
+  },
+  {
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+    "author": "E. W. Dijkstra"
+  },
+  {
+    "quote": "It works on my machine.",
+    "author": "anonymous"
+  },
+  {
+    "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard"
+  },
+  {
+    "quote": "To iterate is human, to recurse divine.",
+    "author": "L. Peter Deutsch"
+  },
+  {
+    "quote": "That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+    "author": "Larry Niven"
+  },
+  {
+    "quote": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.",
+    "author": "Larry Wall"
+  },
+  {
+    "quote": "Objects are abstractions of processing. Threads are abstractions of schedule.",
+    "author": "James O. Coplien"
+  },
+  {
+    "quote": "Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build, and test.",
+    "author": "Ray Ozzie"
+  },
+  {
+    "quote": "Coding like poetry should be short and concise.",
+    "author": "Santosh Kalwar"
+  },
+  {
+    "quote": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House"
+  },
+  {
+    "quote": "Of course, bad code can be cleaned up. But it's very expensive.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "Don't comment bad code – rewrite it.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "quote": "Code is read much more often than it is written.",
+    "author": "Guido Van Rossum"
+  },
+  {
+    "quote": "Programming isn't about what you know; it's about what you can figure out.",
+    "author": "Chris Pine"
+  },
+  {
+    "quote": "Debugging becomes significantly easier if you first admit that you are the problem.",
+    "author": "William Lauder"
+  },
+  {
+    "quote": "There is always one more bug to fix.",
+    "author": "Ellen Ullman"
+  },
+  {
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+    "author": "Grace Hopper"
+  },
+  {
+    "quote": "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.",
+    "author": "John Romero"
+  },
+  {
+    "quote": "All problems in computer science can be solved by another level of indirection.",
+    "author": "David Wheeler"
+  },
+  {
+    "quote": "It's harder to read code than to write it.",
+    "author": "Joel Spolsky"
+  },
+  {
+    "quote": "There are only two hard things in computer science: cache invalidation and naming things.",
+    "author": "Phil Karlton"
+  },
+  {
+    "quote": "A user interface is like a joke. If you have to explain it, it’s not good.",
+    "author": "Grady Booch"
+  },
+  {
+    "quote": "When I wrote this code, only God and I understood what I did. Now, God only knows.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Programmer: A machine that turns coffee into code.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Software is like sex: it's better when it's free.",
+    "author": "Linus Torvalds"
+  }
+]

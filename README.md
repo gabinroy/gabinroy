@@ -1,30 +1,139 @@
-# 💫 About Me:
-🔭 I’m currently working as Freelancer<br>👯 I’m looking to collaborate on Web Development projects<br>🤝 I’m looking for help with open-source projects<br>🌱 I’m currently pursuing B.Tech in CSE at [STIST](https://stisttvm.edu.in)<br>💬 Ask me about anything related to my past works
+<div align="center">
 
+  <!-- Dynamic Animated Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=G%20Abin%20Roy&fontSize=48&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=58&descSize=19" width="100%" alt="Header Banner" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabinroy/) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGodwin_Abin)](https://twitter.com/Godwin_Abin)
+  <!-- Animated Typing Subheading -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=388BFD&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%F0%9F%9A%80+Full-Stack+Web+%26+Mobile+Developer;%F0%9F%8E%93+B.Tech+in+Computer+Science+(Class+of+2026);%F0%9F%92%A1+Passionate+Open-Source+Contributor+%26+Freelancer;%E2%9A%A1+Crafting+High-Performance+Modern+UI%2FUX" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=Codeberg&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=plastic&logo=gatsby&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabinroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabinroy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabinroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gabinroy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <!-- Social Connect & Quick Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gabinroy/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/Godwin_Abin" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=gabinroy&label=PROFILE+VIEWS&style=for-the-badge&color=0e7490">
+      <img src="https://komarev.com/ghpvc/?username=gabinroy&label=PROFILE+VIEWS&style=for-the-badge&color=0e7490" alt="Profile Views" />
+    </a>
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gabinroyn&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
 
-Created with ❤️
+```yaml
+name: G Abin Roy
+location: India 📍
+education: B.Tech in CSE (Class of 2026) from STIST (stisttvm.edu.in) 🎓
+role: Freelance Full-Stack Developer 💻
+interests: Modern Web Development, Cloud Computing & AI Integrations 🌐
+collaborating_on: Open-source projects & innovative web/mobile apps 🤝
+ask_me_about: React, Next.js, Node.js, Cloud Architectures & UI/UX 💬
+motto: "Clean code, scalable systems, and exceptional user experiences." 🚀
+```
 
-![G Abin Roy](https://github.com/gabinroy/gabinroy/blob/main/G%20Abin%20Roy.jpg)
+<br/>
+
+---
+
+### 💻 Tech Arsenal
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,js,html,css,bash,python&theme=dark" alt="Languages" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,bootstrap,tailwind&theme=dark" alt="Frontend" /> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase&theme=dark" alt="Backend & DB" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,netlify,digitalocean,githubactions&theme=dark" alt="Cloud & DevOps" /> |
+| **Creative & AI Tools** | <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,pytorch,tensorflow&theme=dark" alt="Creative & AI" /> |
+
+</div>
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+  <!-- Summary Cards & Streak (High Uptime & Modern Dark Tokyo Night Palette) -->
+  <a href="https://github.com/gabinroy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabinroy&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
+  </a>
+  <a href="https://github.com/gabinroy">
+    <img src="https://streak-stats.demolab.com/?user=gabinroy&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="49%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Language Breakdown Cards -->
+  <a href="https://github.com/gabinroy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabinroy&theme=tokyonight" alt="Repos Per Language" width="49%" />
+  </a>
+  <a href="https://github.com/gabinroy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabinroy&theme=tokyonight" alt="Most Commit Language" width="49%" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### 🐍 Contribution Journey
+
+<div align="center">
+
+  <!-- Contribution Grid Snake (100% Uptime - Automated with GitHub Actions) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="./assets/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+</div>
+
+<br/>
+
+---
+
+### 💡 Daily Dev Wisdom
+
+<div align="center">
+
+  <!-- 100% Offline-Proof Self-Hosted Dev Quote (Updated automatically via GitHub Actions) -->
+  <a href="https://github.com/gabinroy/gabinroy">
+    <img src="./assets/quote.svg" alt="Daily Dev Quote" width="100%" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <!-- Personal Banner -->
+  <img src="./G Abin Roy.jpg" width="100%" style="border-radius: 12px;" alt="G Abin Roy Banner" />
+
+  <br/><br/>
+
+  <!-- Footer Waving Capsule -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+  <p>
+    ⚡ <i>Crafted with precision by <b><a href="https://github.com/gabinroy">G Abin Roy</a></b> &bull; Automated with GitHub Actions</i> ⚡
+  </p>
+
+</div>

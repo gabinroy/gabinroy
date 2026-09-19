@@ -47,9 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Quality is not an act, it is a habit.</tspan>
+    <tspan x="42" y="78">Don&#x27;t comment bad code - rewrite it.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— Aristotle</text>
+  <text x="42" y="118" class="author-text">— Brian W. Kernighan &amp; P. J. Plaugher</text>
 </svg>

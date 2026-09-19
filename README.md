@@ -21,8 +21,8 @@
     <a href="https://twitter.com/Godwin_Abin" target="_blank">
       <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=gabinroy&label=PROFILE+VIEWS&style=for-the-badge&color=0e7490">
-      <img src="https://komarev.com/ghpvc/?username=gabinroy&label=PROFILE+VIEWS&style=for-the-badge&color=0e7490" alt="Profile Views" />
+    <a href="https://komarev.com/ghpvc/?username=gabinroy&label=PROFILE+VIEWS&style=for-the-badge&color=0e7490&base=250">
+      <img src="https://komarev.com/ghpvc/?username=gabinroy&label=PROFILE+VIEWS&style=for-the-badge&color=0e7490&base=250" alt="Profile Views" />
     </a>
   </p>
 

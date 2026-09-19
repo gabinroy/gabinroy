@@ -12,6 +12,9 @@
 
   <!-- Social Connect & Quick Badges -->
   <p align="center">
+    <a href="https://gabinroy.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/gabinroy/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -34,6 +37,7 @@ name: G Abin Roy
 location: India 📍
 education: B.Tech in CSE (Class of 2026) from STIST (stisttvm.edu.in) 🎓
 role: Freelance Full-Stack Developer 💻
+portfolio: https://gabinroy.vercel.app 🌐
 interests: Modern Web Development, Cloud Computing & AI Integrations 🌐
 collaborating_on: Open-source projects & innovative web/mobile apps 🤝
 ask_me_about: React, Next.js, Node.js, Cloud Architectures & UI/UX 💬
@@ -53,7 +57,7 @@ motto: "Clean code, scalable systems, and exceptional user experiences." 🚀
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,js,html,css,bash,python&theme=dark" alt="Languages" /> |
 | **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,bootstrap,tailwind&theme=dark" alt="Frontend" /> |
 | **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase&theme=dark" alt="Backend & DB" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,netlify,digitalocean,githubactions&theme=dark" alt="Cloud & DevOps" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,netlify,vercel,githubactions,git,linux&theme=dark" alt="Cloud & DevOps" /> |
 | **Creative & AI Tools** | <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,pytorch,tensorflow&theme=dark" alt="Creative & AI" /> |
 
 </div>

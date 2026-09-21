@@ -47,11 +47,11 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">To me programming is more than an important practical</tspan>
-<tspan x="42" y="102">art. It is also a gigantic undertaking in the</tspan>
-<tspan x="42" y="126">foundations of knowledge.</tspan>
+    <tspan x="42" y="78">Eagleson&#x27;s Law: Any code of your own that you</tspan>
+<tspan x="42" y="102">haven&#x27;t looked at for six or more months might as</tspan>
+<tspan x="42" y="126">well have been written by someone else.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="166" class="author-text">— Grace Hopper</text>
+  <text x="42" y="166" class="author-text">— Alan Eagleson</text>
 </svg>

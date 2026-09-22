@@ -47,11 +47,11 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Eagleson&#x27;s Law: Any code of your own that you</tspan>
-<tspan x="42" y="102">haven&#x27;t looked at for six or more months might as</tspan>
-<tspan x="42" y="126">well have been written by someone else.</tspan>
+    <tspan x="42" y="78">Programs, like people, get old. We can&#x27;t prevent</tspan>
+<tspan x="42" y="102">ageing, but we can understand its causes, limit its</tspan>
+<tspan x="42" y="126">effects and reverse some of the damage.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="166" class="author-text">— Alan Eagleson</text>
+  <text x="42" y="166" class="author-text">— Mario Fusco</text>
 </svg>

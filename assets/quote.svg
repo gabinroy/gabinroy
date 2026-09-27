@@ -47,9 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Software sucks because users demand it to.</tspan>
+    <tspan x="42" y="78">The essence of XML is this: the problem it solves is</tspan>
+<tspan x="42" y="102">not hard, and it does not solve the problem well.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— Nathan Myhrvold</text>
+  <text x="42" y="142" class="author-text">— Phil Wadler</text>
 </svg>

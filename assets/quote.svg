@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">The essence of XML is this: the problem it solves is</tspan>
-<tspan x="42" y="102">not hard, and it does not solve the problem well.</tspan>
+    <tspan x="42" y="78">You don&#x27;t have a scaling problem yet.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Phil Wadler</text>
+  <text x="42" y="118" class="author-text">— 37Signals</text>
 </svg>

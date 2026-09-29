@@ -47,9 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">You don&#x27;t have a scaling problem yet.</tspan>
+    <tspan x="42" y="78">Fools ignore complexity. Pragmatists suffer it. Some</tspan>
+<tspan x="42" y="102">can avoid it. Geniuses remove it.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— 37Signals</text>
+  <text x="42" y="142" class="author-text">— Alan J. Perlis</text>
 </svg>

@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Fools ignore complexity. Pragmatists suffer it. Some</tspan>
-<tspan x="42" y="102">can avoid it. Geniuses remove it.</tspan>
+    <tspan x="42" y="78">Good engineers make solutions obsolete. Great</tspan>
+<tspan x="42" y="102">engineers make themselves obsolete.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Alan J. Perlis</text>
+  <text x="42" y="142" class="author-text">— Jordan W</text>
 </svg>

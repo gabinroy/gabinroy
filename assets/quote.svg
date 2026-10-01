@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Good engineers make solutions obsolete. Great</tspan>
-<tspan x="42" y="102">engineers make themselves obsolete.</tspan>
+    <tspan x="42" y="78">And the users exclaimed with a laugh and a taunt:</tspan>
+<tspan x="42" y="102">It&#x27;s just what we asked for but not what we want.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Jordan W</text>
+  <text x="42" y="142" class="author-text">— anonymous</text>
 </svg>

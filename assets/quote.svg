@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Not only is UNIX dead, it’s starting to smell really</tspan>
-<tspan x="42" y="102">bad.</tspan>
+    <tspan x="42" y="78">Simplicity is the soul of efficiency.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Rob Pike circa 1991</text>
+  <text x="42" y="118" class="author-text">— Austin Freeman</text>
 </svg>

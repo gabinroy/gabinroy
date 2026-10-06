@@ -47,9 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Simplicity is the soul of efficiency.</tspan>
+    <tspan x="42" y="78">Without requirements or design, programming is the art</tspan>
+<tspan x="42" y="102">of adding bugs to an empty text file.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— Austin Freeman</text>
+  <text x="42" y="142" class="author-text">— Louis Srygley</text>
 </svg>

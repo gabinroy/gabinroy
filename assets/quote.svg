@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Without requirements or design, programming is the art</tspan>
-<tspan x="42" y="102">of adding bugs to an empty text file.</tspan>
+    <tspan x="42" y="78">A notation is important for what it leaves out.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Louis Srygley</text>
+  <text x="42" y="118" class="author-text">— Joseph Stoy</text>
 </svg>

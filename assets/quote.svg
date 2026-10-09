@@ -47,9 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Programmer: A machine that turns coffee into code.</tspan>
+    <tspan x="42" y="78">One of my most productive days was throwing away 1000</tspan>
+<tspan x="42" y="102">lines of code.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— Anonymous</text>
+  <text x="42" y="142" class="author-text">— Ken Thompson</text>
 </svg>

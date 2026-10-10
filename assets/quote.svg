@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">One of my most productive days was throwing away 1000</tspan>
-<tspan x="42" y="102">lines of code.</tspan>
+    <tspan x="42" y="78">All programmers are playwrights and all computers are</tspan>
+<tspan x="42" y="102">lousy actors.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Ken Thompson</text>
+  <text x="42" y="142" class="author-text">— anonymous</text>
 </svg>

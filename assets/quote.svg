@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">All programmers are playwrights and all computers are</tspan>
-<tspan x="42" y="102">lousy actors.</tspan>
+    <tspan x="42" y="78">Don&#x27;t comment bad code – rewrite it.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— anonymous</text>
+  <text x="42" y="118" class="author-text">— Brian Kernighan</text>
 </svg>

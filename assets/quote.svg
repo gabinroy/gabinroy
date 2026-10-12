@@ -47,9 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Don&#x27;t comment bad code – rewrite it.</tspan>
+    <tspan x="42" y="78">In programming, the hard part isn&#x27;t solving</tspan>
+<tspan x="42" y="102">problems, but deciding what problems to solve.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— Brian Kernighan</text>
+  <text x="42" y="142" class="author-text">— Paul Graham</text>
 </svg>

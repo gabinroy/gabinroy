@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">In programming, the hard part isn&#x27;t solving</tspan>
-<tspan x="42" y="102">problems, but deciding what problems to solve.</tspan>
+    <tspan x="42" y="78">First, solve the problem. Then, write the code.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Paul Graham</text>
+  <text x="42" y="118" class="author-text">— John Johnson</text>
 </svg>

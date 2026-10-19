@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">We are just as proud of what our products don&#x27;t</tspan>
-<tspan x="42" y="102">do as we are as what they do.</tspan>
+    <tspan x="42" y="78">The computing scientist’s main challenge is not to get</tspan>
+<tspan x="42" y="102">confused by the complexities of his own making.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— 37Signals</text>
+  <text x="42" y="142" class="author-text">— E. W. Dijkstra</text>
 </svg>

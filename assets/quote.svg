@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">The computing scientist’s main challenge is not to get</tspan>
-<tspan x="42" y="102">confused by the complexities of his own making.</tspan>
+    <tspan x="42" y="78">The only places for icons is in a church, a burning</tspan>
+<tspan x="42" y="102">church at that.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— E. W. Dijkstra</text>
+  <text x="42" y="142" class="author-text">— mhat</text>
 </svg>

@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">The only places for icons is in a church, a burning</tspan>
-<tspan x="42" y="102">church at that.</tspan>
+    <tspan x="42" y="78">In many ways, the prism of computer science is harmful</tspan>
+<tspan x="42" y="102">for the development of information systems.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— mhat</text>
+  <text x="42" y="142" class="author-text">— David Heinemeier Hansson</text>
 </svg>

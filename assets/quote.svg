@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">In many ways, the prism of computer science is harmful</tspan>
-<tspan x="42" y="102">for the development of information systems.</tspan>
+    <tspan x="42" y="78">Compatibility means deliberately repeating other</tspan>
+<tspan x="42" y="102">people’s mistakes.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— David Heinemeier Hansson</text>
+  <text x="42" y="142" class="author-text">— David Wheeler</text>
 </svg>

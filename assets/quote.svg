@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Compatibility means deliberately repeating other</tspan>
-<tspan x="42" y="102">people’s mistakes.</tspan>
+    <tspan x="42" y="78">Experience is the name everyone gives to their</tspan>
+<tspan x="42" y="102">mistakes.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— David Wheeler</text>
+  <text x="42" y="142" class="author-text">— Oscar Wilde</text>
 </svg>

@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">It&#x27;s a lot easier to talk about code than it is</tspan>
-<tspan x="42" y="102">to write code.</tspan>
+    <tspan x="42" y="78">Make everything as simple as possible, but not</tspan>
+<tspan x="42" y="102">simpler.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— John O&#x27;Nolan</text>
+  <text x="42" y="142" class="author-text">— Albert Einstein</text>
 </svg>

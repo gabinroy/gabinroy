@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 190" width="100%" height="190" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 211" width="100%" height="211" fill="none">
   <defs>
     <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117" />
@@ -25,7 +25,7 @@
   </style>
 
   <!-- Background Card -->
-  <rect x="2" y="2" width="736" height="186" rx="14" fill="url(#cardGrad)" stroke="url(#borderGrad)" stroke-width="1.8" />
+  <rect x="2" y="2" width="736" height="207" rx="14" fill="url(#cardGrad)" stroke="url(#borderGrad)" stroke-width="1.8" />
 
   <!-- Terminal Window Bar -->
   <rect x="2" y="2" width="736" height="38" rx="14" fill="#161b22" fill-opacity="0.75" />
@@ -47,10 +47,11 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">There’s nothing in computing that can’t be broken by</tspan>
-<tspan x="42" y="102">another level of indirection.</tspan>
+    <tspan x="42" y="78">You might not think that programmers are artists, but</tspan>
+<tspan x="42" y="102">programming is an extremely creative profession.</tspan>
+<tspan x="42" y="126">It&#x27;s logic-based creativity.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Rob Pike</text>
+  <text x="42" y="166" class="author-text">— John Romero</text>
 </svg>

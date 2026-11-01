@@ -47,11 +47,11 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">You might not think that programmers are artists, but</tspan>
-<tspan x="42" y="102">programming is an extremely creative profession.</tspan>
-<tspan x="42" y="126">It&#x27;s logic-based creativity.</tspan>
+    <tspan x="42" y="78">If you&#x27;re actually doing TDD, you&#x27;re</tspan>
+<tspan x="42" y="102">throwing away tests all the time, as your</tspan>
+<tspan x="42" y="126">understanding of what the code is changes.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="166" class="author-text">— John Romero</text>
+  <text x="42" y="166" class="author-text">— Kerri Miller</text>
 </svg>

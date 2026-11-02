@@ -47,11 +47,11 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">If you&#x27;re actually doing TDD, you&#x27;re</tspan>
-<tspan x="42" y="102">throwing away tests all the time, as your</tspan>
-<tspan x="42" y="126">understanding of what the code is changes.</tspan>
+    <tspan x="42" y="78">We build systems like the Wright brothers built</tspan>
+<tspan x="42" y="102">airplanes - build the whole thing, push it off the</tspan>
+<tspan x="42" y="126">cliff, let it crash, and start over again.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="166" class="author-text">— Kerri Miller</text>
+  <text x="42" y="166" class="author-text">— Nato Software Engineering Conference &#x27;68</text>
 </svg>

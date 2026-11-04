@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">A program that produces incorrect results twice as</tspan>
-<tspan x="42" y="102">fast is infinitely slower.</tspan>
+    <tspan x="42" y="78">It&#x27;s not a bug - it&#x27;s an undocumented</tspan>
+<tspan x="42" y="102">feature.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— John Osterhout</text>
+  <text x="42" y="142" class="author-text">— anonymous</text>
 </svg>

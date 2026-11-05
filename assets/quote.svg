@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">It&#x27;s not a bug - it&#x27;s an undocumented</tspan>
-<tspan x="42" y="102">feature.</tspan>
+    <tspan x="42" y="78">Hardware: the parts of a computer system that can be</tspan>
+<tspan x="42" y="102">kicked.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— anonymous</text>
+  <text x="42" y="142" class="author-text">— Jeff Pesis</text>
 </svg>

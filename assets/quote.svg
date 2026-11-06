@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Hardware: the parts of a computer system that can be</tspan>
-<tspan x="42" y="102">kicked.</tspan>
+    <tspan x="42" y="78">It is not enough for code to work.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Jeff Pesis</text>
+  <text x="42" y="118" class="author-text">— Robert C. Martin</text>
 </svg>

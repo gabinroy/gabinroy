@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">In programming the hard part isn’t solving problems,</tspan>
-<tspan x="42" y="102">but deciding what problems to solve.</tspan>
+    <tspan x="42" y="78">Controlling complexity is the essence of computer</tspan>
+<tspan x="42" y="102">programming.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Paul Graham</text>
+  <text x="42" y="142" class="author-text">— Brian Kernighan</text>
 </svg>

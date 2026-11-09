@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Controlling complexity is the essence of computer</tspan>
-<tspan x="42" y="102">programming.</tspan>
+    <tspan x="42" y="78">Playfully doing something difficult, whether useful or</tspan>
+<tspan x="42" y="102">not, that is hacking.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Brian Kernighan</text>
+  <text x="42" y="142" class="author-text">— Richard M. Stallman</text>
 </svg>

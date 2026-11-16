@@ -47,9 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">PHP is [the] Sarah Palin of programming languages.</tspan>
+    <tspan x="42" y="78">There are only two hard things in Computer Science:</tspan>
+<tspan x="42" y="102">cache invalidation and naming things.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="118" class="author-text">— killerstorm [&lt;code&gt;http://www.reddit.com/r/programming/comments/b7j9v/debian_refuses_to_package_the_embedded_php/c0ldcqg&lt;/code&gt;]</text>
+  <text x="42" y="142" class="author-text">— Phil Karlton</text>
 </svg>

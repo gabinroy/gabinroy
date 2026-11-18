@@ -47,11 +47,11 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Computers make it easier to do a lot of things, but</tspan>
-<tspan x="42" y="102">most of the things they make it easier to do don’t</tspan>
-<tspan x="42" y="126">need to be done.</tspan>
+    <tspan x="42" y="78">Writing software as if we are the only person that</tspan>
+<tspan x="42" y="102">ever has to comprehend it is one of the biggest</tspan>
+<tspan x="42" y="126">mistakes and false assumptions that can be made.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="166" class="author-text">— Andy Rooney</text>
+  <text x="42" y="166" class="author-text">— Karolina Szczur</text>
 </svg>

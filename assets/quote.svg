@@ -47,10 +47,9 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Your task is not to foresee the future, but to enable</tspan>
-<tspan x="42" y="102">it.</tspan>
+    <tspan x="42" y="78">Code never lies, comments sometimes do.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Antoine de Saint Exupéry</text>
+  <text x="42" y="118" class="author-text">— Ron Jeffries</text>
 </svg>

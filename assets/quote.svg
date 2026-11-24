@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 211" width="100%" height="211" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 190" width="100%" height="190" fill="none">
   <defs>
     <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117" />
@@ -25,7 +25,7 @@
   </style>
 
   <!-- Background Card -->
-  <rect x="2" y="2" width="736" height="207" rx="14" fill="url(#cardGrad)" stroke="url(#borderGrad)" stroke-width="1.8" />
+  <rect x="2" y="2" width="736" height="186" rx="14" fill="url(#cardGrad)" stroke="url(#borderGrad)" stroke-width="1.8" />
 
   <!-- Terminal Window Bar -->
   <rect x="2" y="2" width="736" height="38" rx="14" fill="#161b22" fill-opacity="0.75" />
@@ -47,11 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">It&#x27;s okay to figure out murder mysteries, but you</tspan>
-<tspan x="42" y="102">shouldn&#x27;t need to figure out code. You should be</tspan>
-<tspan x="42" y="126">able to read it.</tspan>
+    <tspan x="42" y="78">The cheapest, fastest, and most reliable components</tspan>
+<tspan x="42" y="102">are those that aren’t there.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="166" class="author-text">— Steve McConnell</text>
+  <text x="42" y="142" class="author-text">— Gordon Bell</text>
 </svg>

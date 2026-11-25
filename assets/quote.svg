@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">The cheapest, fastest, and most reliable components</tspan>
-<tspan x="42" y="102">are those that aren’t there.</tspan>
+    <tspan x="42" y="78">Low-level programming is good for the</tspan>
+<tspan x="42" y="102">programmer&#x27;s soul.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— Gordon Bell</text>
+  <text x="42" y="142" class="author-text">— John Carmack</text>
 </svg>

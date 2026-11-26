@@ -47,10 +47,10 @@
 
   <!-- Quote Body -->
   <text class="quote-text">
-    <tspan x="42" y="78">Low-level programming is good for the</tspan>
-<tspan x="42" y="102">programmer&#x27;s soul.</tspan>
+    <tspan x="42" y="78">You can’t trust code that you did not totally create</tspan>
+<tspan x="42" y="102">yourself.</tspan>
   </text>
 
   <!-- Author & Sparkle -->
-  <text x="42" y="142" class="author-text">— John Carmack</text>
+  <text x="42" y="142" class="author-text">— Ken Thompson</text>
 </svg>
